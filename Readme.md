@@ -1,5 +1,7 @@
 # Door Lock Security System
 
+Using Python2, RFID reader, Raspberypi3 an automated door-lock system is created, which gives you sms-alert when anyone enters into your house using a reader. Every information of the reader is added into a MySQL database. Unauthorized access is denied.
+
 The project is about securing door lock in office/home which is automated through bulk SMS service, RFID tag reading and  live camera streaming.
 
 ### Applications of Door Lock Security System
