@@ -20,7 +20,7 @@ The project is about securing door lock in office/home which is automated throug
 
 
 ### Circuit diagram explanation:
-Analog output (A0): Real-time output voltage signal on the thermal resistance.
+	+ Analog output (A0): Real-time output voltage signal on the thermal resistance.
 	+ RFID module MFRC-522: The module is used to identify any tag placed on it.
 	+ RFID tag: The tag stores information, and the information is stored in the access-log. If the information matches with the information stored in the access-list then the lock is opened.
 	+ 12V door lock: The lock is opened when a 12V passes through it.
