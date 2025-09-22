@@ -29,7 +29,7 @@ Analog output (A0): Real-time output voltage signal on the thermal resistance.
 	+ Camera: A camera is kept for live streaming
 
 ### Code for Door Lock Security System:
-The code is added in the python script in the repository
+The code is added in the python script in the repository [here](doorlock.py).
 
 ### Important Aspects of the Program:
 
